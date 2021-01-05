@@ -1,3 +1,6 @@
+An attempt to create personal website using GitHub, wowchemy and markdown. Currently hosted domain for site: https://bhavesh-rajpoot.netlify.app/
+
+
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
