@@ -1,6 +1,6 @@
 ---
 title: Bhavesh Rajpoot
-role: ""
+role: "Undergraduate Research Student"
 bio: My research interests include Eclipsing Binaries, Light curve extraction and analysis, Explosive Transients and Nucleosynthesis
 interests:
   - Eclipsing Binaries
