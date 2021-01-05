@@ -43,8 +43,7 @@ highlight_name: false
 ---
 
 Hello,
-
-I am an aspiring Astronomer and Astrophysicist.
+I am Physics graduate and an aspiring Astronomer and Astrophysicist.
 
 I am currently working on the 'Bayesian Analysis of Detached Eclipsing Binaries (dEBs)' under the guidance of [Dr. Kyle Conroy](http://www.keconroy.com/) at Villanova University, US. Prior to this, I performed a detailed study in the Modelling and Analysis of Binary Stars as a Summer Intern at the [Indian Institue of Technology, Bombay (IITB)](https://www.iitb.ac.in/), India. Apart from this, I love to study Supernovae, Transients, Nebulae, and Nucleosynthesis.
 
@@ -52,4 +51,4 @@ I received my Bachelors of Science (B.Sc) degree in Physics from [Fergusson Coll
 
 Along with Astronomy, I am an avid trekker and photographer, and loves to cook!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rajpoot_CV_US (2).pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rajpoot_CV_US (2).pdf" "newtab" >}}CV{{< /staticref >}}.
