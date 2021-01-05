@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Undergraduate Research Assistant
+    company: Villanova University
+    company_url: 'https://www1.villanova.edu/university.html'
+    location: Pennsylvania, US
+    date_start: '2020-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    #description: |2-
+        #Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        #* Analysing
+        #* Modelling
+        #* Deploying
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Summer Research Intern
+    company: Indian Institute of Technology Bombay
+    company_url: 'https://www.iitb.ac.in/'
+    location: Maharashtra, India
+    date_start: '2020-05-01'
+    date_end: '2020-08-31'
+    #description: Taught electronic engineering and researched semiconductor physics.
 ---
